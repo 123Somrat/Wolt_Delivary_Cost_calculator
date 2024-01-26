@@ -1,0 +1,9 @@
+.margin{
+     margin: 5px    
+}
+.padding{
+    padding: 5px;
+}
+.shadow{
+    box-shadow: 2px 2px 2px #0ff5f5;
+}

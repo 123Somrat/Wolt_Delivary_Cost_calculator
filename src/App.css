@@ -1,0 +1,38 @@
+.main{
+  max-width:500px;
+  max-height:1900px;
+  border: 2px solid black;
+}
+
+.margin-auto{
+  margin:30px auto;
+}
+
+.border-bottom{
+   border-bottom: 2px solid black;
+}
+.border-top{
+  border-top : 2px solid black
+}
+.padding{
+  padding: 5px;
+}
+.margin{
+    margin:10px 10px
+}
+.text-center{
+  text-align:center; 
+}
+.width{
+   width: 15px;
+}
+.flex{
+  display: flex;
+}
+.justify-content{
+  justify-content:space-around;
+ 
+}
+.margin-left{
+   margin-left: 45px;
+}
